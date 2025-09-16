@@ -1,0 +1,45 @@
+.section 
+{
+    display: flex;
+}
+.footer
+{
+    text-align: center;
+    
+    font-size: large;
+    background-color:rgb(253,228,215);
+    padding:20px;
+}
+.text-box
+{
+    
+    display: center;
+   
+   
+}
+.footer a
+{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+#footer2
+{
+    color:coral;
+}
+.edit
+{
+    margin-left: 60px;
+    text-align: justify;
+    
+    display:flex;
+}
+.table
+{
+    padding: 50px;
+}
+
+#table
+{
+
+    text-decoration: none;
+}

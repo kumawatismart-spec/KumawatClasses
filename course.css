@@ -1,0 +1,56 @@
+.heading
+{
+    text-align: center;
+}
+.line
+{
+    text-align: center;
+}
+.course
+{
+ 
+    margin-right:10px;
+    margin-left:10px;
+   
+    font-size: small;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+#radius
+{
+    border-radius: 10px;
+    width: 300px;
+    height:300px;
+     
+}
+button
+{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    border-radius: 5px
+}
+.space
+{
+    text-align: center;
+}
+.section1
+{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 50px;
+    height: 20%;
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+.s1
+{
+    padding: 30px;
+    margin-bottom:30px;
+  
+}
+
+
+
+
+ 

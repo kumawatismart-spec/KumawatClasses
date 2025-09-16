@@ -1,0 +1,56 @@
+.div a
+{
+text-decoration: none;
+color: cornflowerblue;
+}
+
+.div
+{
+padding-left: 70px;
+padding-right:70px;
+font-size: large;
+text-align: justify;
+margin:0px 40px;
+
+}
+.CENTER
+{
+    text-align: center;
+    padding: 20PX;
+
+}
+.box
+{
+    border: 2px dotted red;
+    margin-right:15px;
+    font-size:20px;
+    margin-left: 40px;
+    padding:20px;
+   text-align: justify;
+    background-color:rgb(251, 246, 253);
+    height: 50%;
+   
+}
+.box a
+{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.box2
+{
+    border: 2px dotted green;
+    margin-right:40px;
+    font-size:20px;
+    margin-left: 15px;
+    padding:20px;
+    display:right;
+    text-align: justify;
+    background-color:rgb(234, 254, 243);   
+ 
+    
+}
+.box2 a
+{
+    text-decoration: none;
+    color: cornflowerblue;
+}
